@@ -71,3 +71,9 @@ With these steps, you should be ready to start using the PoissonBlend tool!
   <br>[/github.com/Erkaman/poisson_blend](https://github.com/Erkaman/poisson_blend)
 - Used for setting A to be identity and b the value of the target image when the target mask and processing each colour channel independently (R, G, B)
   <br>[cs.brown.edu/courses/cs129/results/proj2/taox/](https://cs.brown.edu/courses/cs129/results/proj2/taox/)
+
+## Credits
+This project was completed for credit in CMPT 742 - Visual Computing Lab I at Simon Fraser University.
+- **Developer**: Jill Ference  
+  [GitHub Profile](https://github.com/jillference) | [LinkedIn](https://linkedin.com/in/jillference)
+- Amir Alimohammadi for align_target.py and get_mask.py base code
