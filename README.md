@@ -76,4 +76,4 @@ With these steps, you should be ready to start using the PoissonBlend tool!
 This project was completed for credit in CMPT 742 - Visual Computing Lab I at Simon Fraser University.
 - **Developer**: Jill Ference  
   [GitHub Profile](https://github.com/jillference) | [LinkedIn](https://linkedin.com/in/jillference)
-- Amir Alimohammadi for align_target.py and get_mask.py base code
+- Amir Alimohammadi for getting mask and aligning target base code
