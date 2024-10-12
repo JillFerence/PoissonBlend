@@ -29,7 +29,7 @@ Example of the blending process:
   <br>![blended_image](https://github.com/user-attachments/assets/706c7dbb-78ee-4b0d-93d3-27de25668200)
   
 ## Setup & Usage
-To set up the Poisson Blending project, follow these steps:
+To set up PoissonBlend, follow these steps:
 
 1. **Prerequisites:**
     - Ensure you have Python 3.x installed.
